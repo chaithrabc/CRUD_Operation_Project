@@ -73,5 +73,4 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
    - **SQLAlchemy**: SQL toolkit and Object-Relational Mapping (ORM) library for Python, simplifies database interaction.
    - **HTML**: Standard markup language for creating web pages, defining structure and content.
    - **CSS**: Style sheet language for controlling web page presentation and enhancing user experience.
-```
 
